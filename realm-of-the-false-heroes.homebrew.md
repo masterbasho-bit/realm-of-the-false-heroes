@@ -419,7 +419,7 @@ Each reward keys to a different tournament zone, so the party's two picks effect
 }}
 
 {{wide
-![The main stage battle map](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/25-finale-stage-1.png){width:62%}
+![The main-stage battle map](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){width:100%}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -440,7 +440,7 @@ Instead of health, each team shares a single **"Hype Meter"** of **150 HP** (inc
 * **Magic:** Damage spells instead force a **Charisma save**. On a fail, the Rivals are "Stunned by the Special Effects" and lose their next turn.
 
 {{text-align:center
-![Hype Meter](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){width:78%}
+![Hype Meter](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/25-finale-stage-1.png){width:78%}
 }}
 
 \column
