@@ -6,7 +6,7 @@ This repo holds the brew source **and** hosts its artwork. GitHub serves files i
 
 ## Contents
 
-- [`realm-of-the-false-heroes.homebrew.md`](realm-of-the-false-heroes.homebrew.md) — the Homebrewery source (v1.1, 22 pages). Paste into a new V3 / A4 brew.
+- [`realm-of-the-false-heroes.homebrew.md`](realm-of-the-false-heroes.homebrew.md) — the Homebrewery source (v1.3, 27 pages). Paste into a new V3 / A4 brew. Appendices: A Rivals · B Tactics & Taunts · C Trivia & Debate · D Cinematic Prompts · E Cosplay Spellbook · F Loot · G Convention Tables · H DM's Toolkit.
 - [`images/`](images/) — all 36 illustrations, already wired into the brew by raw URL.
 
 ## How the image URLs work
