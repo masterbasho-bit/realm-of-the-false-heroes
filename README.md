@@ -1,12 +1,12 @@
 # The Realm of the False Heroes
 
-A D&D 5e Level 9 interlude for *Tomb of Annihilation* — formatted for [The Homebrewery](https://homebrewery.naturalcrit.com) (V3 renderer, A4).
+A system-agnostic, comedic D&D 5e Level 9 interlude (drop into any campaign) — formatted for [The Homebrewery](https://homebrewery.naturalcrit.com) (V3 renderer, A4).
 
 This repo holds the brew source **and** hosts its artwork. GitHub serves files in a public repo as raw bytes, which is exactly what Homebrewery's `![](url)` syntax needs.
 
 ## Contents
 
-- [`realm-of-the-false-heroes.homebrew.md`](realm-of-the-false-heroes.homebrew.md) — the Homebrewery source (v1.3, 27 pages). Paste into a new V3 / A4 brew. Appendices: A Rivals · B Tactics & Taunts · C Trivia & Debate · D Cinematic Prompts · E Cosplay Spellbook · F Loot · G Convention Tables · H DM's Toolkit.
+- [`realm-of-the-false-heroes.homebrew.md`](realm-of-the-false-heroes.homebrew.md) — the Homebrewery source (v2.0, 30 pages). Paste into a new V3 / A4 brew. Opens with a front cover; closes with printable player handouts (the flyer, the map, the battle map). Appendices: A Rivals (with tactics) · B Trivia & Debate · C Cosplay Spellbook · D Loot · E DM's Toolkit · F Cinematic Prompts. *(Random-encounter tables now live inline in Part 2.)*
 - [`images/`](images/) — all 36 illustrations, already wired into the brew by raw URL.
 
 ## How the image URLs work
@@ -44,8 +44,8 @@ Images are named by where they appear, in document order. Landscape scene art re
 | 19 | `19-rival-legolad.png` | Zone 1 + Legolad stat block |
 | 20–22 | `20-zone2-arcade`, `21-zone2-dance`, `22-zone2-hammer` | Tournament Zone 2 |
 | 23–24 | `23-zone3-stage`, `24-zone3-panel` | Tournament Zone 3 |
-| 25–27 | `25/26-finale-stage*`, `27-finale-vader` | Part 6 — Grand Finale |
-| 28–30 | `28-item-lightsaber`, `29-item-vocal-processor`, `30-item-cookies` | Imperial Gifts |
+| 25–27 | `25-finale-stage-1` (Hype meter), `26-finale-stage-2` (battle-map handout), `27-finale-darklord` | Part 6 — Grand Finale |
+| 28–30 | `28-item-lightsaber`, `29-item-vocal-processor`, `30-item-cookies` | The Dark Lord's Gifts |
 | 31 | `31-epilogue.png` | Part 7 — epilogue |
 | 32–36 | `32–36-rival-*.png` | Appendix A — Chad, Pete, Bathrobe Wizard, Pizza Guy, Goth Barbarian |
 
