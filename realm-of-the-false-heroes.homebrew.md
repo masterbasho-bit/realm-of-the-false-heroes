@@ -9,6 +9,29 @@
 
 /* Heading tiers: #  = chapter / new page;  ### = sub-section.
    Generic hook: swap "the Villain" for your campaign's Big Bad. */
+
+/* ---- FULL-BLEED ART (exemplar — tune offsets to your theme) ----
+   Add one of these as a bare class on an <img> to run it off the page
+   edge with a feathered interior edge. Offsets assume PHB A4 padding
+   (~1.4 / 1.9 / 1.6 cm); nudge the margins if a seam or gap shows. */
+.page img.bannerBleed {   /* section-top banner: sides bleed, fade at bottom */
+  width: calc(100% + 3.8cm); max-width: none;
+  margin: 0 -1.9cm 0.3cm -1.9cm;
+  -webkit-mask-image: linear-gradient(#000 76%, transparent);
+          mask-image: linear-gradient(#000 76%, transparent);
+}
+.page img.bleedBottom {   /* page-bottom fill: sides + bottom bleed, fade at top */
+  width: calc(100% + 3.8cm); max-width: none;
+  margin: 0.3cm -1.9cm -1.6cm -1.9cm;
+  -webkit-mask-image: linear-gradient(transparent, #000 26%);
+          mask-image: linear-gradient(transparent, #000 26%);
+}
+.page img.bleedRight {    /* right-column portrait: right bleed, fade at left */
+  width: calc(100% + 2.4cm); max-width: none;
+  margin: 0 -1.9cm 0 0;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 44%);
+          mask-image: linear-gradient(to right, transparent, #000 44%);
+}
 </style>
 
 
@@ -21,7 +44,7 @@
 ## A Comedic Level 9 Interlude for Any Campaign
 
 {{footnote
-A party yanked out of their campaign and into a comic convention—who must win their way home.
+A party yanked out of their campaign and into a comic convention—who must win their way home. · Artwork generated with Nano Banana (Gemini) for this module.
 }}
 
 ![The Departure, 1837, by Thomas Cole](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/08-floor-lore-expert-2.png){position:absolute,bottom:0,right:0,height:100%}
@@ -58,15 +81,14 @@ Drop this anywhere you need a fun, low-stakes diversion: have your campaign's **
 \page
 
 # Part 1: The Departure
+
+{{wide
+![A sinister hydra-carved throne](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/01-departure-throne.png){bannerBleed}
+}}
+
 {{note
 **Location:** The Villain's throne room (use your campaign's lair).
 }}
-
-{{wide
-![A sinister hydra-carved throne](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/01-departure-throne.png){width:100%}
-}}
-
-:
 
 **The Villain** looks down on the party from a sinister throne carved like a many-headed hydra. Whatever he once was, he is diminished now—gaunt, his power guttering like a dying candle. He has no interest in a straight fight against foes who blaze with such divine and arcane power.
 
@@ -90,12 +112,6 @@ The sound is not a magical explosion, but a digital screech—like a corrupted a
 **Location:** The main hall of an enormous modern convention centre.
 }}
 
-{{wide
-![Arrival on the convention floor](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/03-arrival-excel.png){width:100%}
-}}
-
-:
-
 {{descriptive
 **Read Aloud:**
 :
@@ -104,6 +120,10 @@ The sound is not a magical explosion, but a digital screech—like a corrupted a
 The mist clears, revealing a cavernous space unlike any dungeon you have ever seen. You stand on a grey carpet in a hall the size of a city. Above, massive metal rafters hold blinding artificial suns that buzz with electricity. Around you, legions of mortals—wizards, soldiers, aliens, and creatures you cannot name—walk in herds, their faces lit by glowing rectangular scrying stones.
 :
 You look down at your gear. Your *Holy Avenger* looks... painted? The metal lacks its lustre. Your heavy plate armour feels impossibly light, like hardened foam. You have not travelled to the Hells or the Abyss. You have travelled to a **comic convention**."
+}}
+
+{{wide
+![Arrival on the convention floor](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/03-arrival-excel.png){bleedBottom}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -463,7 +483,7 @@ A bored staffer in a white space-trooper helmet waves you to the firing line. "B
 
 ### Zone 2: The Retro Arcade (Physical)
 {{wide
-![The retro arcade](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/20-zone2-arcade.png){width:100%}
+![The retro arcade](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/20-zone2-arcade.png){bannerBleed}
 }}
 
 :
@@ -545,9 +565,7 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 
 \column
 
-{{wide
-![The Dark Lord, Head Judge](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/27-finale-darklord.png){width:100%}
-}}
+![The Dark Lord, Head Judge](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/27-finale-darklord.png){bleedRight}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
