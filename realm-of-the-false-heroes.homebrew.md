@@ -311,9 +311,11 @@ A teenager in a "Dungeon Master" t-shirt and cat ears approaches the most exotic
 \page
 
 ### Encounter D: The Alchemist
-The party finds a vendor stall with a banner reading "Potions & Elixirs"—selling "Mana Potions" (blue raspberry slushies) and "Stamina Potions" (overpriced energy drinks).
+{{wide
+![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){bannerBleed}
+}}
 
-![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){width:100%}
+The party finds a vendor stall with a banner reading "Potions & Elixirs"—selling "Mana Potions" (blue raspberry slushies) and "Stamina Potions" (overpriced energy drinks).
 
 * **Interaction:** "Is this a prop coin? Plastic? Look, mate, I can't take props. Card or Apple Pay only. Or do you have a trade pass?"
 * **Mechanic:** The Rogue uses **Sleight of Hand** to swipe a drink, or the Paladin barters a small trinket as a "rare collectible."
@@ -324,14 +326,13 @@ The party finds a vendor stall with a banner reading "Potions & Elixirs"—selli
 *Effect:* The sugar-and-caffeine rush grants the effects of *Haste* for 1 minute. Immediately after, the character suffers 1 level of Exhaustion (the crash).
 }}
 
-\column
+{{footnote The Realm of the False Heroes}}
+{{pageNumber,auto}}
+
+\page
 
 ### Encounter E: The Inciting Rivalry
 A group of six cosplayers parts the crowd like a phalanx, shoving bystanders aside with practiced coordination. It is **Team Rules Lawyer**.
-
-{{text-align:center
-![Team Rules Lawyer parts the crowd](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/11-floor-team-rivalry.png){width:58%}
-}}
 
 * **The Setup:** Chad the Paladin stops in front of the party, sneering at their actual, battle-worn armor.
 
@@ -345,6 +346,10 @@ Behind him, Sneaky Pete giggles, shaking a pouch of glitter. "Bet they didn't ev
 * **Mechanic:** A **DC 15 Intimidation or Performance check** wipes the smirk off Chad's face.
   * ***Success:*** The crowd "Ooooohs!" The party starts the Tournament with **10 Temporary Hype**.
   * ***Failure:*** Chad shoves past. "See you at the bottom of the leaderboards."
+
+\column
+
+![Team Rules Lawyer parts the crowd](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/11-floor-team-rivalry.png){bleedRight}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
@@ -360,7 +365,9 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 }}
 
 ### 1. The VR Horror Booth
-![The VR horror booth](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/12-sq1-vr-booth.png){width:100%}
+{{wide
+![The VR horror booth](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/12-sq1-vr-booth.png){bannerBleed}
+}}
 
 **Setting.** A sleek black kiosk; on the monitor a glitchy low-poly ghost screams. People in headsets flail wildly.
 
@@ -374,10 +381,15 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 *(Cheap red plastic sunglasses.)* They filter out visual noise. The wearer ignores visual penalties (smoke, strobe lights, fog) in **Zone 1**.
 }}
 
-\column
+{{footnote The Realm of the False Heroes}}
+{{pageNumber,auto}}
+
+\page
 
 ### 2. The Impossible Claw Machine
-![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){width:100%}
+{{wide
+![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){bannerBleed}
+}}
 
 **Setting.** A glass cabinet of round anime plushies; the claw above looks tragically flimsy. A child is crying nearby, having lost their allowance.
 
