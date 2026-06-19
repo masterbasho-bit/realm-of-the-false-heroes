@@ -32,6 +32,10 @@
   -webkit-mask-image: linear-gradient(to right, transparent, #000 44%);
           mask-image: linear-gradient(to right, transparent, #000 44%);
 }
+.page img.handoutPortrait {  /* full-height portrait handout (e.g. the rotated battle map) */
+  display: block; margin: 0 auto;
+  height: 252mm; width: auto; max-width: 100%;
+}
 </style>
 
 
@@ -302,7 +306,7 @@ A teenager in a "Dungeon Master" t-shirt and cat ears approaches the most exotic
 * **Success:** His eyes go wide. "Whoa... so in character. Awesome." He snaps a selfie and runs off, instantly posting it.
 
 {{text-align:center
-![The lore expert](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/07-floor-lore-expert.png){width:52%}
+![The lore expert](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/07-floor-lore-expert.png){width:60%}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -440,12 +444,14 @@ Each reward keys to a different tournament zone, so the party's two picks effect
 \page
 
 # Part 5: The Tri-Fandom Tournament
+{{wide
 {{note
 **Goal:** Collect 3 Tokens to qualify for the Finale.
 :
 **Opponents:** *Team Rules Lawyer*—Chad, Sneaky Pete, Legolad, Bathrobe Wizard, Pizza Guy, and the Goth Barbarian (full stat blocks in Appendix A).
 :
 **Rival Interference:** In *each* zone, the team has **1 Interference Token** to impose **Disadvantage** on a check or force a re-roll—bumping elbows, flashing lights, heckling, or spilling soda.
+}}
 }}
 
 ### Zone 1: A Distant Galaxy (Sci-Fi)
@@ -564,6 +570,18 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 ***The Host (Zone 3)*** loves a confident *wrong* answer more than a meek right one. Deception and Performance beat raw Knowledge.
 }}
 
+\column
+
+{{note
+##### The Arena (Terrain)
+The stage isn't an empty box—break up the fight with:
+* **Prop crates** (the marked squares): half cover; climb one for high ground.
+* **Speaker stacks** at the corners: total cover, and a *Thunderwave* if toppled (DC 13 Dex or **Prone**).
+* **The Judge's desk & throne**: raised ground the Dark Lord rules from.
+* **Pyro jets** along the front lip: a 5-ft. line that erupts on a botched flourish (2d10 Hype).
+* **Trailing cables & a foam-pit "moat"** off the back: difficult terrain, perfect for a dramatic shove.
+}}
+
 {{wide
 ![The Dark Lord, Head Judge](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/27-finale-darklord.png){bleedBottom}
 }}
@@ -573,8 +591,8 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 
 \page
 
-{{wide
-![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){width:100%}
+{{text-align:center
+![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){handoutPortrait}
 }}
 
 {{footnote Player Handout — The Main Stage}}
@@ -591,7 +609,7 @@ Instead of health, each team shares a single **"Hype Meter"** of **150 HP** (the
 * **Magic:** damage spells instead force a **Charisma save**. On a fail, the Rivals are "Stunned by the Special Effects" and lose their next turn.
 
 {{text-align:center
-![Hype Meter](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/25-finale-stage-1.png){width:74%}
+![Hype Meter](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/25-finale-stage-1.png){width:100%}
 }}
 
 \column
@@ -603,6 +621,7 @@ On initiative count 20 (losing ties), the Dark Lord intervenes:
 1. ***Dread Grip.*** He points at a player. DC 13 Wisdom save or be Restrained by stagehands.
 2. ***High Ground.*** He raises a platform. Attacks from the high ground have Advantage.
 3. ***Heavy Metal Music.*** He changes the track. All Hype damage is doubled for 1 round.
+4. ***Rigging Drop.*** A massive prop block crashes from the roof onto a 10-ft. square (a marked crate, or under a random player). Each creature there makes a **DC 15 Dexterity save**—on a fail, 3d10 Hype and knocked **Prone**; half and no prone on a success. The block remains as a 5-ft. **raised platform** (high ground; Advantage to attack from atop it).
 }}
 
 {{note
@@ -724,6 +743,8 @@ ___
 ___
 ***Tactics.*** Front-runs and lawyers; targets whoever's having the most fun and tries to invalidate it.
 :
+***Catchphrase.*** *"By the rulebook—page 47, subsection C—I've already won."*
+:
 ***Aura of Smugness.*** Allies within 10 ft. have advantage on saving throws.
 :
 ***Roleplay Police.*** Advantage on saves vs. illusion spells (he points out the wires).
@@ -745,6 +766,8 @@ ___
 **Speed**       :: 40 ft.
 ___
 ***Tactics.*** Never fights fair—glitter, flash, sabotage—and vanishes the round before he'd take a hit.
+:
+***Catchphrase.*** *"You didn't see that. Nobody saw that."*
 :
 ***Evasion.*** On a Dex save for 0 Hype damage, he takes none on a success and half on a failure.
 :
@@ -775,6 +798,8 @@ ___
 ___
 ***Tactics.*** Kites and snipes from range, narrating his own highlight reel.
 :
+***Catchphrase.*** *"...and the crowd goes WILD as Legolad nails it again!"*
+:
 ***Sharpshooter.*** His ranged attacks ignore half and three-quarters cover.
 ### Actions
 ***Multiattack.*** Two Nerf Bow attacks.
@@ -796,6 +821,8 @@ ___
 **Speed**       :: 30 ft.
 ___
 ***Tactics.*** Does the bare minimum until someone wakes him; then he's annoyingly competent.
+:
+***Catchphrase.*** *"Ugh, do I have to? ...Fine. I cast Magic Missile."*
 ### Actions
 ***"I Cast Magic Missile."*** *Ranged Spell Attack:* auto-hit, three targets. *Hit:* 1d4 + 1 Hype per dart (total 3d4 + 3).
 :
@@ -820,6 +847,8 @@ ___
 ___
 ***Tactics.*** A wall—soaks Hype and shields Chad, mostly by being in the way.
 :
+***Catchphrase.*** *"You want a piece? ...of pizza? Or of me?"*
+:
 ***Aura of Marinara.*** The floor within 10 ft. is difficult terrain (grease and dropped toppings).
 ### Actions
 ***Delivery Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft. *Hit:* 2d8 + 5 Hype (a stale pizza box over the head).
@@ -841,6 +870,8 @@ ___
 **Speed**       :: 40 ft.
 ___
 ***Tactics.*** Doesn't care, which makes him hard to faze and harder to impress.
+:
+***Catchphrase.*** *"Whatever. This is so derivative."*
 :
 ***Angst (Rage).*** Resistant to Hype damage. Style Points earned against him are halved—"he doesn't care."
 :
