@@ -311,10 +311,6 @@ A teenager in a "Dungeon Master" t-shirt and cat ears approaches the most exotic
 \page
 
 ### Encounter D: The Alchemist
-{{wide
-![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){bannerBleed}
-}}
-
 The party finds a vendor stall with a banner reading "Potions & Elixirs"—selling "Mana Potions" (blue raspberry slushies) and "Stamina Potions" (overpriced energy drinks).
 
 * **Interaction:** "Is this a prop coin? Plastic? Look, mate, I can't take props. Card or Apple Pay only. Or do you have a trade pass?"
@@ -324,6 +320,10 @@ The party finds a vendor stall with a banner reading "Potions & Elixirs"—selli
 ##### Item: Stamina Potion
 ![Stamina Potion](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/10-item-stamina-potion.png){width:100%}
 *Effect:* The sugar-and-caffeine rush grants the effects of *Haste* for 1 minute. Immediately after, the character suffers 1 level of Exhaustion (the crash).
+}}
+
+{{wide
+![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){bleedBottom}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -387,10 +387,6 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 \page
 
 ### 2. The Impossible Claw Machine
-{{wide
-![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){bannerBleed}
-}}
-
 **Setting.** A glass cabinet of round anime plushies; the claw above looks tragically flimsy. A child is crying nearby, having lost their allowance.
 
 **Game.** "Beat the Rig." The machine is designed to fail.
@@ -401,6 +397,10 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 ##### Reward: Gamer Grip Gel
 ![Gamer Grip Gel](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/15-item-grip-gel.png){width:100%}
 *(A tube of neon green sticky slime.)* Applied to hands or feet, it grants **Advantage** on physical checks (climbing, gripping, dancing) in **Zone 2**.
+}}
+
+{{wide
+![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){bleedBottom}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -446,17 +446,6 @@ Each reward keys to a different tournament zone, so the party's two picks effect
 **Opponents:** *Team Rules Lawyer*—Chad, Sneaky Pete, Legolad, Bathrobe Wizard, Pizza Guy, and the Goth Barbarian (full stat blocks in Appendix A).
 :
 **Rival Interference:** In *each* zone, the team has **1 Interference Token** to impose **Disadvantage** on a check or force a re-roll—bumping elbows, flashing lights, heckling, or spilling soda.
-}}
-
-{{note
-##### d8 Rival Taunt
-Roll or pick when a Rival lands a hit or spends Interference.
-| d8 | "..." | d8 | "..." |
-|:--:|:------|:--:|:------|
-| 1 | "Is that... store-bought?" | 5 | "You're holding the sword wrong." |
-| 2 | "My cosplay has *lore*." | 6 | "Smile for the 'gram, loser." |
-| 3 | "Source? I need a source." | 7 | "That's not canon and you know it." |
-| 4 | "We did this bit two years ago." | 8 | "Cute. Watch a professional." |
 }}
 
 ### Zone 1: A Distant Galaxy (Sci-Fi)
@@ -575,9 +564,9 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 ***The Host (Zone 3)*** loves a confident *wrong* answer more than a meek right one. Deception and Performance beat raw Knowledge.
 }}
 
-\column
-
-![The Dark Lord, Head Judge](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/27-finale-darklord.png){bleedRight}
+{{wide
+![The Dark Lord, Head Judge](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/27-finale-darklord.png){bleedBottom}
+}}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
@@ -626,6 +615,19 @@ As reigning champion, Chad knows the stage crew. On initiative count 10 (losing 
 }}
 
 **Victory.** When the Rivals' Hype hits 0, they "die" dramatically—falling over, clutching their chests, overacting. The Dark Lord stands, slow-claps, and awards the party the **Amulet**.
+
+{{wide
+{{note
+##### d8 Rival Taunt
+Roll or pick when a Rival lands a hit or spends Interference (in the zones or here).
+| d8 | "..." | d8 | "..." |
+|:--:|:------|:--:|:------|
+| 1 | "Is that... store-bought?" | 5 | "You're holding the sword wrong." |
+| 2 | "My cosplay has *lore*." | 6 | "Smile for the 'gram, loser." |
+| 3 | "Source? I need a source." | 7 | "That's not canon and you know it." |
+| 4 | "We did this bit two years ago." | 8 | "Cute. Watch a professional." |
+}}
+}}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
