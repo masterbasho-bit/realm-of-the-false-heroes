@@ -281,7 +281,7 @@ The party must use their high-level fantasy skills to decipher the strange diale
 
 ### Encounter B: Peace-Bonding (Fail Forward)
 {{wide
-![A security guard peace-bonds the party's weapons](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/06-floor-peace-bonding.png){width:100%}
+![A security guard peace-bonds the party's weapons](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/06-floor-peace-bonding.png){bannerBleed}
 }}
 
 :
@@ -398,7 +398,7 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 
 ### 3. The Debate Club
 {{wide
-![The debate club](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/16-sq3-debate-club.png){width:100%}
+![The debate club](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/16-sq3-debate-club.png){bannerBleed}
 }}
 
 :
@@ -449,7 +449,7 @@ Roll or pick when a Rival lands a hit or spends Interference.
 
 ### Zone 1: A Distant Galaxy (Sci-Fi)
 {{wide
-![The sci-fi shooting gallery](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/18-zone1-scifi.png){width:100%}
+![The sci-fi shooting gallery](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/18-zone1-scifi.png){bannerBleed}
 }}
 
 :
@@ -519,7 +519,7 @@ The bass is a physical thing. A neon sign flickers **DANCE OR DIE** (the "DIE" i
 
 ### Zone 3: The Live Stage (Lore)
 {{wide
-![The live lore stage](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/23-zone3-stage.png){width:100%}
+![The live lore stage](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/23-zone3-stage.png){bannerBleed}
 }}
 
 :
@@ -539,7 +539,7 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 ***Win Condition.*** Win 3 rounds of applause.
 
 {{wide
-![The panel table under the lights](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/24-zone3-panel.png){width:100%}
+![The panel table under the lights](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/24-zone3-panel.png){bleedBottom}
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -655,7 +655,7 @@ These three relics keep their spark back home; everything else (the Visor, the G
 
 # Part 7: Epilogue (The Return)
 {{wide
-![The return home](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/31-epilogue.png){width:100%}
+![The return home](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/31-epilogue.png){bannerBleed}
 }}
 
 :
