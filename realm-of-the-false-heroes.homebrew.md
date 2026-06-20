@@ -44,33 +44,37 @@
 {{banner HOMEBREW}}
 
 {{margin-top:90px}}
-# The Realm of the False Heroes
+::::::
+
 ## A Comedic Level 9 Interlude for Any Campaign
 
 {{footnote
 A party yanked out of their campaign and into a comic convention—who must win their way home. · Artwork generated with Nano Banana (Gemini) for this module.
 }}
 
-![The Departure, 1837, by Thomas Cole](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/08-floor-lore-expert-2.png){position:absolute,bottom:0,right:0,height:100%}
+![The Departure](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/08-floor-lore-expert-2.png){position:absolute,bottom:0,right:0,height:100%}
 
 \page
 
 # Synopsis
+::
 Weary and weakened, cornered by a party far too powerful for him, **the Villain** plays a desperate card. With a forbidden artefact gifted to him in a fever dream, he banishes the party to a dimension where magic and martial prowess mean nothing: **a comic convention**.
 
 In this bizarre realm of synthetic heroes and cardboard gods, the party is stripped of lethal force. To escape, they must navigate the strange customs of "fandom," survive the judgment of the locals, and win a cosplay tournament against their arch-rivals, **Team Rules Lawyer**. Only by claiming the Grand Prize—the **Amulet of Restoration**—can they shatter the illusion and go home.
 
+:::::
 {{note
 ##### Running This Interlude
 Drop this anywhere you need a fun, low-stakes diversion: have your campaign's **Big Bad** invoke the artefact mid-confrontation. It runs well as a one-shot or a palate-cleanser between heavy arcs. Throughout, swap **"the Villain"** for whoever your party is currently chasing, and their lair for your own.
 }}
+
 
 \column
 
 {{text-align:center
 ![The convention awaits](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/03-arrival-excel.png){width:96%}
 }}
-
+:::
 {{note
 ##### At a Glance
 * **Level:** ~9 (scales easily; see the DM's Toolkit).
@@ -93,7 +97,7 @@ Drop this anywhere you need a fun, low-stakes diversion: have your campaign's **
 {{note
 **Location:** The Villain's throne room (use your campaign's lair).
 }}
-
+::
 **The Villain** looks down on the party from a sinister throne carved like a many-headed hydra. Whatever he once was, he is diminished now—gaunt, his power guttering like a dying candle. He has no interest in a straight fight against foes who blaze with such divine and arcane power.
 
 {{descriptive
@@ -104,6 +108,7 @@ With a trembling hand, the Villain produces the **Amulet of False Realities**. T
 
 ![The amulet shatters](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/02-departure-amulet.png){width:100%}
 
+::
 The sound is not a magical explosion, but a digital screech—like a corrupted audio file. The air goes cold and dry in an instant. The room dissolves, not into darkness, but into a swirl of green mist that smells of ozone, spilled energy drink, and rotting vegetation.
 
 {{footnote The Realm of the False Heroes}}
@@ -112,10 +117,8 @@ The sound is not a magical explosion, but a digital screech—like a corrupted a
 \page
 
 # Part 2: Arrival at the Convention
-{{note
-**Location:** The main hall of an enormous modern convention centre.
-}}
 
+:::::::::::::::::::::::::::::::::::::::::::
 {{descriptive
 **Read Aloud:**
 :
@@ -126,6 +129,10 @@ The mist clears, revealing a cavernous space unlike any dungeon you have ever se
 You look down at your gear. Your *Holy Avenger* looks... painted? The metal lacks its lustre. Your heavy plate armour feels impossibly light, like hardened foam. You have not travelled to the Hells or the Abyss. You have travelled to a **comic convention**."
 }}
 
+::
+{{note
+**Location:** The main hall of an enormous modern convention centre.
+}}
 {{wide
 ![Arrival on the convention floor](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/03-arrival-excel.png){bleedBottom}
 }}
@@ -135,9 +142,68 @@ You look down at your gear. Your *Holy Avenger* looks... painted? The metal lack
 
 \page
 
-## Working the Crowd
-Before the structured encounters, let the party simply *gawk*. Drop these in whenever they wander, stall, or you want to fill time. Roll or pick freely.
+# The "Convention Curse" (Global Rules)
+In this dimension, the physics of your world are rewritten by the mundane laws of Earth, filtered through the lens of a convention. The following rules apply.
 
+:::
+:::
+{{note
+##### 1. Foam Physics
+All weapon damage is reduced to **0**. A greataxe hit does not cleave flesh; it bounces harmlessly off the target. However, the force is real enough to knock someone back. A successful hit pushes the target 5 feet and earns **Style Points** (flavor only).
+:
+##### 2. Magic as SFX
+Spells are transmuted into "Special Effects."
+
+* *Fireball* becomes a burst of harmless glitter and dry ice fog.
+* *Thunderwave* is a localized bass drop from hidden speakers.
+* *Eldritch Blast* looks like a laser pointer or a smoke ring.
+
+These effects deal **no damage**, but they are visually spectacular.
+}}
+
+\column
+:::::::::::
+{{note
+##### 3. Class Fantasy Rule (Agency Fix)
+The loss of damage does not mean a loss of agency. While spells don't hurt, **they still impose conditions or distractions.**
+
+* A well-timed *Fog Cloud* still blinds enemies.
+* *Thaumaturgy* can rattle the environment to intimidate a rival.
+* *Hold Person* might manifest as the target getting their costume snagged on scenery.
+
+***DM Ruling:*** If a player uses a spell creatively to distract, blind, or impede a rival, grant **Advantage** to an ally or impose **Disadvantage** on the Rival.
+:
+##### 4. The Tether
+The artefact keeps one cruel thread tied to home. Healing magic (*Cure Wounds*, *Lay on Hands*, potions) fizzles instantly into stage smoke—the characters **cannot heal** here. It is a constant, nagging reminder that however safe this world feels, whatever doom drove them out is still waiting when they get back.
+}}
+:::
+{{note
+##### Style Points & Hype
+Foam hits and clever flourishes earn **Style Points**—pure flavour on the floor, but once the Tournament begins they become **Hype**, the only "damage" that matters. Reward Style for in-character commitment, crowd-pleasing description, and creative "powers"; booing, breaking character, or arguing the rules (Chad's whole gimmick) loses it.
+}}
+
+{{note
+##### What Your Gear Becomes
+Magic items don't *work* here—but they still look incredible. When a player asks what their kit does on the floor:
+| Magic Item | On the Convention Floor |
+|:-----------|:------------------------|
+| *+1 Sword* | A flawless foam replica |
+| *Wand of Magic Missiles* | A light-up toy that goes "pew pew" |
+| *Bag of Holding* | A bottomless tote of merch |
+| *Cloak of Elvenkind* | A very good hoodie (Advantage to slip through crowds) |
+| *Immovable Rod* | A selfie stick that will not collapse |
+}}
+
+{{footnote The Realm of the False Heroes}}
+{{pageNumber,auto}}
+
+\page
+
+## Working the Crowd
+:
+Before the structured encounters, let the party simply *gawk*. Drop these in whenever they wander, stall, or you want to fill time. Roll or pick freely.
+:
+:::
 {{note
 ##### d20 Random Convention Encounter
 | d20 | Encounter |
@@ -165,7 +231,7 @@ Before the structured encounters, let the party simply *gawk*. Drop these in whe
 }}
 
 \column
-
+:::::::::::
 {{note
 ##### d12 Overheard at the Con
 | d12 | "..." |
@@ -183,7 +249,7 @@ Before the structured encounters, let the party simply *gawk*. Drop these in whe
 | 11 | "Last call for tournament entry—FINAL call!" |
 | 12 | "Don't make eye contact with the timeshare booth." |
 }}
-
+::
 {{note
 ##### d6 Artist Alley (a prop to grab)
 | d6 | Prop (mundane, but fun) |
@@ -201,58 +267,16 @@ Before the structured encounters, let the party simply *gawk*. Drop these in whe
 
 \page
 
-# The "Convention Curse" (Global Rules)
-In this dimension, the physics of your world are rewritten by the mundane laws of Earth, filtered through the lens of a convention. The following rules apply.
-
-{{note
-##### 1. Foam Physics
-All weapon damage is reduced to **0**. A greataxe hit does not cleave flesh; it bounces harmlessly off the target. However, the force is real enough to knock someone back. A successful hit pushes the target 5 feet and earns **Style Points** (flavor only).
-:
-##### 2. Magic as SFX
-Spells are transmuted into "Special Effects."
-
-* *Fireball* becomes a burst of harmless glitter and dry ice fog.
-* *Thunderwave* is a localized bass drop from hidden speakers.
-* *Eldritch Blast* looks like a laser pointer or a smoke ring.
-
-These effects deal **no damage**, but they are visually spectacular.
-}}
-
-\column
-
-{{note
-##### 3. Class Fantasy Rule (Agency Fix)
-The loss of damage does not mean a loss of agency. While spells don't hurt, **they still impose conditions or distractions.**
-
-* A well-timed *Fog Cloud* still blinds enemies.
-* *Thaumaturgy* can rattle the environment to intimidate a rival.
-* *Hold Person* might manifest as the target getting their costume snagged on scenery.
-
-***DM Ruling:*** If a player uses a spell creatively to distract, blind, or impede a rival, grant **Advantage** to an ally or impose **Disadvantage** on the Rival.
-:
-##### 4. The Tether
-The artefact keeps one cruel thread tied to home. Healing magic (*Cure Wounds*, *Lay on Hands*, potions) fizzles instantly into stage smoke—the characters **cannot heal** here. It is a constant, nagging reminder that however safe this world feels, whatever doom drove them out is still waiting when they get back.
-}}
-
-{{note
-##### Style Points & Hype
-Foam hits and clever flourishes earn **Style Points**—pure flavour on the floor, but once the Tournament begins they become **Hype**, the only "damage" that matters. Reward Style for in-character commitment, crowd-pleasing description, and creative "powers"; booing, breaking character, or arguing the rules (Chad's whole gimmick) loses it.
-}}
-
-{{footnote The Realm of the False Heroes}}
-{{pageNumber,auto}}
-
-\page
-
 # Part 3: The Convention Floor
 With the crowd taken in, the party must navigate the "locals" and the strange bureaucracy of the convention.
-
+::::::
 ### Encounter A: The Prophecy of the Tri-Fandom (The Flyer)
 A frantic, exhausted teenager in a neon "EVENT STAFF" t-shirt runs past, aggressively shoving a glossy, brightly colored pamphlet into the Paladin's chest before sprinting away. *(Full-size, printable copies of both sides are in the **Player Handouts** at the back.)*
-
+:::::
 {{text-align:center
 ![The flyer, front](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/04-floor-flyer-1.png){width:74%}
 }}
+:::::
 
 {{descriptive
 ##### The Pamphlet Reads:
@@ -260,7 +284,7 @@ A frantic, exhausted teenager in a neon "EVENT STAFF" t-shirt runs past, aggress
 }}
 
 \column
-
+::::::::::
 The party must use their high-level fantasy skills to decipher the strange dialect, bizarre imagery (anime girls, spacemen), and the confusing labyrinth map on the back. Have each player choose how to interpret the "missive" and roll one of the following.
 
 **Intelligence (Investigation or History) DC 15** — reading the strange Common dialect and the meaning of "Sponsored by Raid: Shadow Legends."
@@ -283,7 +307,7 @@ The party must use their high-level fantasy skills to decipher the strange diale
 
 \page
 
-### Encounter B: Peace-Bonding (Fail Forward)
+### Encounter B: Peace-Bonding
 {{wide
 ![A security guard peace-bonds the party's weapons](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/06-floor-peace-bonding.png){bannerBleed}
 }}
@@ -315,19 +339,33 @@ A teenager in a "Dungeon Master" t-shirt and cat ears approaches the most exotic
 \page
 
 ### Encounter D: The Alchemist
-The party finds a vendor stall with a banner reading "Potions & Elixirs"—selling "Mana Potions" (blue raspberry slushies) and "Stamina Potions" (overpriced energy drinks).
-
-* **Interaction:** "Is this a prop coin? Plastic? Look, mate, I can't take props. Card or Apple Pay only. Or do you have a trade pass?"
-* **Mechanic:** The Rogue uses **Sleight of Hand** to swipe a drink, or the Paladin barters a small trinket as a "rare collectible."
-
-{{descriptive
-##### Item: Stamina Potion
-![Stamina Potion](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/10-item-stamina-potion.png){width:100%}
-*Effect:* The sugar-and-caffeine rush grants the effects of *Haste* for 1 minute. Immediately after, the character suffers 1 level of Exhaustion (the crash).
+{{wide
+![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){bannerBleed}
 }}
 
-{{wide
-![The Potions & Elixirs stall](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/09-floor-alchemist.png){bleedBottom}
+{{descriptive
+A hand-painted banner reads "POTIONS & ELIXIRS." Behind a counter wreathed in dry-ice fog, a profoundly bored vendor slings glowing slushies and cans of "Thunder-Bull," tapping each sale against a little card reader.
+}}
+
+The stall sells two "potions"—and won't take a single gold piece for either.
+
+* **The Vendor:** "Is this a prop coin? *Plastic?* I can't take props, mate. Card or Apple Pay only. Or you got a trade pass?"
+* **Getting Paid (pick one):**
+  * ***Sleight of Hand (DC 13):*** the Rogue lifts a drink clean off the counter.
+  * ***Deception / Persuasion (DC 14):*** pass a 'prop' dagger or ring off as a "limited-edition collectible" worth a trade.
+  * ***Performance (DC 12):*** pose for paid selfies with passing fans until you've earned enough "card."
+
+\column
+
+{{descriptive
+##### Mana Potion *(blue-raspberry slushie)*
+A waxed cup of radioactive-blue ice. *Effect:* the brain-freeze clears your head—on your **next turn only**, add **+1d4** to one check, attack, or save. A second within the hour leaves you **Poisoned** (the sugar shakes) for 10 minutes.
+}}
+
+{{descriptive
+##### Stamina Potion *(energy drink)*
+![Stamina Potion](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/10-item-stamina-potion.png){width:100%}
+*Effect:* the sugar-and-caffeine rush grants *Haste* for 1 minute. Immediately after, you suffer 1 level of **Exhaustion** (the crash).
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -336,9 +374,7 @@ The party finds a vendor stall with a banner reading "Potions & Elixirs"—selli
 \page
 
 ### Encounter E: The Inciting Rivalry
-A group of six cosplayers parts the crowd like a phalanx, shoving bystanders aside with practiced coordination. It is **Team Rules Lawyer**.
-
-* **The Setup:** Chad the Paladin stops in front of the party, sneering at their actual, battle-worn armor.
+A group of six cosplayers parts the crowd like a phalanx, shoving bystanders aside with practiced coordination. It is **Team Rules Lawyer**. Chad the Paladin stops in front of the party, sneering at their actual, battle-worn armor.
 
 {{descriptive
 "Cute," Chad says, tapping the Fighter's breastplate. "Going for the 'battle-damaged' look? A bit derivative, isn't it? Amateur hour."
@@ -346,14 +382,26 @@ A group of six cosplayers parts the crowd like a phalanx, shoving bystanders asi
 Behind him, Sneaky Pete giggles, shaking a pouch of glitter. "Bet they didn't even read the rulebook, Chad."
 }}
 
+**Meet the Rivals.** As they posture, each tosses a jab—give the players six faces to want to beat:
+
+* ***Chad:*** "Rules are rules. I've read all of them. Twice."
+* ***Sneaky Pete*** *(already behind you):* "Boo. ...Kidding. Or am I?"
+* ***Legolad:*** "Stand where the light's good—you'll want this clip later."
+* ***Bathrobe Wizard*** *(yawning):* "Wake me for the final."
+* ***Pizza Guy*** *(mouth full):* "You gonna finish that... dignity?"
+* ***Goth Barbarian:*** "...whatever."
+
 * **The Conflict:** "This is *our* con. We've won three years running. Go enter the beginner's bracket."
-* **Mechanic:** A **DC 15 Intimidation or Performance check** wipes the smirk off Chad's face.
-  * ***Success:*** The crowd "Ooooohs!" The party starts the Tournament with **10 Temporary Hype**.
-  * ***Failure:*** Chad shoves past. "See you at the bottom of the leaderboards."
+* **Mechanic:** A **DC 15 Intimidation or Performance check** wipes the smirk off Chad's face. *Success:* the crowd "Ooooohs!" and the party banks **10 Temporary Hype**. *Failure:* Chad shoves past—"See you at the bottom of the leaderboards."
 
 \column
 
 ![Team Rules Lawyer parts the crowd](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/11-floor-team-rivalry.png){bleedRight}
+
+{{note
+##### Sizing Them Up
+A character may make a **Wisdom (Insight) DC 13** as the rivals strut. On a success, reveal one rival's obvious weakness—their *Tactics* line from Appendix A (e.g., Pete bails the round before he'd take a hit; the Wizard does nothing until provoked). Forewarned, the party can plan how to humiliate them later.
+}}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
@@ -363,26 +411,40 @@ Behind him, Sneaky Pete giggles, shaking a pouch of glitter. "Bet they didn't ev
 # Part 4: The Side Quests
 *Objective: win items to cheat in the main tournament.*
 
+:::
+::::::::::::::
 {{note
 ##### The Clock
 The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers begin in 30 minutes! Please report to the staging area!"* — The party has time to attempt only **TWO** of the three side quests. Choose the rewards that serve best.
 }}
-
+::
 ### 1. The VR Horror Booth
 {{wide
 ![The VR horror booth](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/12-sq1-vr-booth.png){bannerBleed}
 }}
 
-**Setting.** A sleek black kiosk; on the monitor a glitchy low-poly ghost screams. People in headsets flail wildly.
+{{descriptive
+On the monitor, a player in a headset claws at the air, mouth open in a silent scream as a glitchy red ghost lunges. A small crowd films it, delighted. A cardboard sign promises: "SURVIVE = PRIZE."
+}}
 
-**Game.** "Survive the Glitch." The character dons the headset and is dropped into a terrifyingly realistic digital dungeon.
+**Setting.** A sleek black kiosk; the headset drops you into a terrifyingly realistic digital dungeon.
 
-**Check.** **DC 13 Wisdom saving throw** to realize the ghosts aren't real and not scream at the jump scare.
+**Game.** "Survive the Glitch"—don't scream at the jump-scares.
+
+**Check.** **DC 13 Wisdom saving throw** to realize the ghosts aren't real.
+
+\column
+
+{{note
+##### Rival Play — Sneaky Pete
+Blind in the headset, the hero never sees **Sneaky Pete** slip behind them to *add his own* scares—a cold breath on the neck, a whispered "*behind you*," a rubber spider down the collar.
+* **Impact:** roll the **Wisdom save with Disadvantage.** Pass anyway and Pete shrugs ("worth a shot") and lifts a single harmless prop for later—pure flavour.
+}}
 
 {{descriptive
 ##### Reward: The Tactical Visor
 ![The Tactical Visor](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/13-item-tactical-visor.png){width:100%}
-*(Cheap red plastic sunglasses.)* They filter out visual noise. The wearer ignores visual penalties (smoke, strobe lights, fog) in **Zone 1**.
+*(Cheap red plastic sunglasses.)* They filter visual noise—ignore visual penalties (smoke, strobes, fog) in **Zone 1**.
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -391,20 +453,30 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 \page
 
 ### 2. The Impossible Claw Machine
-**Setting.** A glass cabinet of round anime plushies; the claw above looks tragically flimsy. A child is crying nearby, having lost their allowance.
+{{wide
+![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){bannerBleed}
+}}
 
-**Game.** "Beat the Rig." The machine is designed to fail.
+{{descriptive
+Behind the glass, a pile of impossibly cute plushies. The claw hangs limp and loose—obviously rigged. A small child sniffles nearby, pockets turned out, staring at the one that got away.
+}}
 
-**Check.** **DC 15 Sleight of Hand** (thieves' tools on the service lock) **OR DC 16 Athletics** (shaking a prize into the chute).
+**Setting.** "Beat the Rig"—a machine engineered to fail.
+
+**Check.** **DC 15 Sleight of Hand** (thieves' tools on the service lock) **OR DC 16 Athletics** (shake a prize into the chute).
+
+\column
+
+{{note
+##### Rival Play — Chad
+The instant a hero reaches in, **Chad** materialises with a lanyard and a clipboard. "*Excuse me.* Tampering with arcade equipment is a **Section 12** violation." (There is no Section 12.)
+* **Impact:** before finishing the check, win a **DC 13 Charisma (Deception or Intimidation)** to wave him off. Fail and a *real* staffer drifts over—the machine "resets," giving **Disadvantage** on the attempt.
+}}
 
 {{descriptive
 ##### Reward: Gamer Grip Gel
 ![Gamer Grip Gel](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/15-item-grip-gel.png){width:100%}
-*(A tube of neon green sticky slime.)* Applied to hands or feet, it grants **Advantage** on physical checks (climbing, gripping, dancing) in **Zone 2**.
-}}
-
-{{wide
-![The impossible claw machine](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/14-sq2-claw-machine.png){bleedBottom}
+*(A tube of neon green sticky slime.)* On hands or feet: **Advantage** on physical checks (climbing, gripping, dancing) in **Zone 2**.
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -417,25 +489,26 @@ The PA system booms overhead: *"Attention cosplayers! The Tri-Fandom Qualifiers 
 ![The debate club](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/16-sq3-debate-club.png){bannerBleed}
 }}
 
-:
+{{descriptive
+A ring of folding tables, a fortress of energy-drink cans, and a knot of red-faced nerds mid-argument over whether something is "canon." They turn, as one, and fix the party with the stare of people who have *opinions.*
+}}
 
-**Setting.** A messy circle of folding tables covered in energy drink cans. A group of intense, sweaty nerds shout about "canon events" and "power scaling."
+**Setting.** "Fan Theory Debate"—e.g., *"Could a level 20 Wizard defeat Goku?"*
 
-**Game.** "Fan Theory Debate" (e.g., "Could a level 20 Wizard defeat Goku?").
-
-**Check.** **DC 14 Charisma (Persuasion or Deception)**. The player must use D&D logic to build a nonsensical but convincing argument and win the crowd.
+**Check.** **DC 14 Charisma (Persuasion or Deception)**—use D&D logic to build a nonsensical but convincing argument and win the crowd.
 
 \column
+
+{{note
+##### Rival Play — Bathrobe Wizard
+Roused from a nap by the shouting, the **Bathrobe Wizard** shuffles over and—*appallingly*—knows his stuff. He takes the opposing podium, sighing the entire time.
+* **Impact:** the debate becomes a **contested Charisma check vs. the Wizard (+6).** Beat him and the crowd turns; lose and he wins the point, mutters "*obviously,*" and shuffles off to nap (**Disadvantage** if you try again this hour).
+}}
 
 {{descriptive
 ##### Reward: The Spoilers Cheat Sheet
 ![The Spoilers Cheat Sheet](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/17-item-cheat-sheet.png){width:100%}
-*(A crumpled napkin with scribbled notes.)* It contains the answers to the trivia questions. Using it grants an **Auto-Success** on one round in **Zone 3**.
-}}
-
-{{note
-##### Choosing Wisely
-Each reward keys to a different tournament zone, so the party's two picks effectively decide which two zones they'll have an edge in. The Debate Club's cheat sheet is the strongest—but only if they expect a close Lore round.
+*(A crumpled napkin of scribbled notes.)* It holds the trivia answers—an **Auto-Success** on one round in **Zone 3**.
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -453,8 +526,9 @@ Each reward keys to a different tournament zone, so the party's two picks effect
 **Rival Interference:** In *each* zone, the team has **1 Interference Token** to impose **Disadvantage** on a check or force a re-roll—bumping elbows, flashing lights, heckling, or spilling soda.
 }}
 }}
+::::::
 
-### Zone 1: A Distant Galaxy (Sci-Fi)
+### Zone 1: A Distant Galaxy
 {{wide
 ![The sci-fi shooting gallery](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/18-zone1-scifi.png){bannerBleed}
 }}
@@ -479,6 +553,12 @@ A bored staffer in a white space-trooper helmet waves you to the firing line. "B
 
 \column
 
+{{note
+##### Rival Play — Legolad
+This is **Legolad's** house. He calls every shot ("*...and the crowd goes wild*") and steals the heroes' targets out from under them.
+* **Impact:** at the start of each round he tags **one lit target first** (it doesn't count for the heroes). Once this zone he spends the **Interference Token** for **Disadvantage** on a hero's attack—"bad form, mate." Hit 5 anyway and he sulks: **Disadvantage** on his interference in the *next* zone.
+}}
+
 {{text-align:center
 ![Legolad lines up a shot](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/19-rival-legolad.png){width:58%}
 }}
@@ -488,7 +568,8 @@ A bored staffer in a white space-trooper helmet waves you to the firing line. "B
 
 \page
 
-### Zone 2: The Retro Arcade (Physical)
+### Zone 2: The Retro Arcade
+::::
 {{wide
 ![The retro arcade](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/20-zone2-arcade.png){bannerBleed}
 }}
@@ -515,9 +596,6 @@ The bass is a physical thing. A neon sign flickers **DANCE OR DIE** (the "DIE" i
 
 ![Dance Dance Revolution](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/21-zone2-dance.png){width:100%}
 
-:
-
-![The High Striker](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/22-zone2-hammer.png){width:100%}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
@@ -555,6 +633,7 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 \page
 
 # Part 6: The Grand Finale
+::
 {{note
 **Location:** The Main Stage—a massive platform with pyrotechnics, a giant screen displaying the party's faces, and a throne for the Head Judge.
 :
@@ -571,7 +650,7 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 }}
 
 \column
-
+::
 {{note
 ##### The Arena (Terrain)
 The stage isn't an empty box—break up the fight with:
@@ -592,7 +671,7 @@ The stage isn't an empty box—break up the fight with:
 \page
 
 {{text-align:center
-![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){handoutPortrait}
+![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){width:180%}
 }}
 
 {{footnote Player Handout — The Main Stage}}
@@ -601,7 +680,7 @@ The stage isn't an empty box—break up the fight with:
 \page
 
 ### Encounter: The Battle for Hype
-Instead of health, each team shares a single **"Hype Meter"** of **150 HP** (the larger rival team accounts for the higher number). Roll initiative as normal.
+Instead of health, each team shares a single **"Hype Meter."** **Team Rules Lawyer (the Rivals) start with 150 Hype**—the bigger team, the bigger meter—while **the Heroes start with 120 Hype** (a 4–5-PC party), **plus the +10 Temp Hype** if they beat Chad back in Encounter E (and anything still banked from the zones). Whoever empties the other team's meter first wins the crowd. Adjust either pool by ±30 Hype per PC beyond a 4–5 party (see the DM's Toolkit). Roll initiative as normal.
 
 ***Attacks***
 * **Standard Hit:** a successful attack deals **1d10 Hype damage**—the crowd cheering a solid hit.
@@ -657,8 +736,8 @@ Roll or pick when a Rival lands a hit or spends Interference (in the zones or he
 "Impressive," the Dark Lord breathes. "Most impressive. Take these—from my private collection." He tosses three plastic items that keep a spark of magic.
 
 {{descriptive
-##### Photon Sabre 9000
-![Photon Sabre 9000](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/28-item-lightsaber.png){width:100%}
+##### Youngling Slayer 9000
+![Youngling Slayer 9000](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/28-item-lightsaber.png){width:100%}
 A plastic extendable laser sword. In your world, a **+1 shortsword** that sheds dim red light.
 }}
 
@@ -669,13 +748,13 @@ A black voice-modulator box. In your world, it grants **Advantage on Intimidatio
 }}
 
 \column
-
+::::::::
 {{descriptive
 ##### Dread Lord Cookies
 ![Dread Lord Cookies](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/30-item-cookies.png){width:100%}
 A tin of black-frosted, helmet-shaped cookies. Acts as a ***Potion of Greater Healing***, but the user must end their next sentence with "...as I foretold."
 }}
-
+::
 {{note
 ##### Crossing Back
 These three relics keep their spark back home; everything else (the Visor, the Gel, the Stamina cans) is mundane junk the moment the party returns. Hand the players the relic cards as the convention dissolves around them.
@@ -687,13 +766,14 @@ These three relics keep their spark back home; everything else (the Visor, the G
 \page
 
 # Part 7: Epilogue (The Return)
+::
 {{wide
 ![The return home](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/31-epilogue.png){bannerBleed}
 }}
 
 :
 
-The party gathers around the Amulet and snaps the shards together.
+The party gathers around the Amulet and connects the shards together.
 
 {{descriptive
 "The world fractures. The roar of the convention hall is silenced instantly, replaced by a heavy, oppressive quiet. The cool, dry air is slammed away by the weight and smell of the place you left.
@@ -714,7 +794,7 @@ You stand once again where you began. The 'fun' is over."
 ##### Back to the Campaign
 The interlude leaves no lasting mechanical marks beyond the three relics and whatever bruised egos Team Rules Lawyer inflicted. Resume your campaign exactly where the artefact interrupted it.
 }}
-
+::
 {{note
 ##### Callbacks & Consequences
 A few threads worth pulling later:
@@ -733,7 +813,7 @@ A few threads worth pulling later:
 Designed to challenge a Level 9 party: high ACs (costume quality) and disruptiveness in place of lethal damage. The whole team shares a single **150-point Hype pool** (their "Ego")—every hit chips the same shared meter. Each block opens with a one-line ***Tactics*** cue for how to play them.
 
 {{monster,frame
-![Chad the Paladin](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/32-rival-chad.png){width:100%}
+![Chad the Paladin](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/32-rival-chad.png){width:80%}
 ## Chad the Paladin
 *Medium humanoid (team leader), lawful evil*
 ___
@@ -755,7 +835,7 @@ ___
 }}
 
 \column
-
+:::::::::::::
 {{monster,frame
 ![Sneaky Pete](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/33-rival-sneaky-pete.png){width:100%}
 ## Sneaky Pete
@@ -888,6 +968,7 @@ ___
 \page
 
 # Appendix B: Trivia & Debate
+:::::::::
 {{note
 ##### Zone 3: Trivia Questions (Host)
 **Q1.** "In casting *Fireball*, what two organic materials are required?"
@@ -917,6 +998,7 @@ ___
 ### Side Quest 3: Debate Topics (Nerds)
 Each "resolved" statement is a trap; the Nerds accept only the convoluted ruling that follows.
 
+:::
 {{note
 ***The Titan Clash.*** "Darkseid's Omega Beams (Magic Missile) bypass Thanos's Legendary Resistances."
 *Accepted ruling:* Legendary Resistance burns on the Omega Effect's Banishment, leaving Thanos open to melee.
@@ -941,8 +1023,9 @@ Each "resolved" statement is a trap; the Nerds accept only the convoluted ruling
 
 # Appendix C: The Cosplay Spellbook
 In this realm, magic is purely visual. Damage is 0, but the *implication* of power is everything. Below are common class features re-flavored for the convention—use them as templates and improvise the rest.
-
+::
 ### Paladin (Oath of the Convention)
+::
 {{note
 ***Divine Smite — Flashbulb Smite.*** A flashlight taped to your foam blade strobes on a hit. Deals Hype; on a crit, the lens flare blinds the target.
 :
@@ -951,7 +1034,10 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 ***Revivify — The "Get Up" Scene.*** You scream "Don't you die on me—the sequel's greenlit!" at a "fallen" ally, who stands with 1 Hype.
 }}
 
+::
+
 ### Cleric (Domain of the Fandom)
+::
 {{note
 ***Sacred Flame — Spotlight.*** The lighting crew drops a beam on the target; they sweat under the attention (Dex save or −1d4 Hype).
 :
@@ -961,29 +1047,33 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 }}
 
 \column
-
+::::::::
 ### Barbarian (Path of the Main Character)
+::
 {{note
 ***Rage — Method Acting.*** You commit so hard the crowd believes it: Advantage on Intimidation-based Hype, resistance to "embarrassment."
 :
 ***Reckless Attack — Going Off-Script.*** Advantage on your Style roll, but Rivals get Advantage to interfere this round.
 }}
-
+::
 ### Fighter (The Prop Master)
+::
 {{note
 ***Action Surge — Quick Change.*** Whip out a second prop mid-combo for an extra Style action.
 :
 ***Second Wind — Crowd Work.*** A flex and a wink regain a burst of Ego (Temp Hype).
 }}
-
+::
 ### Rogue (Influencer)
+::
 {{note
 ***Sneak Attack — Photobomb.*** Slide into a Rival's shot for bonus Hype if an ally is "set up" nearby.
 :
 ***Cunning Action — Crowd Surf.*** Dash, Disengage, or Hide into the press of bodies.
 }}
-
+::
 ### Monk (Way of the Cosplay Combatant)
+::
 {{note
 ***Flurry of Blows — Combo Finisher.*** A blur of foam strikes, each "hit" pure spectacle.
 :
@@ -996,21 +1086,25 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 \page
 
 # Appendix C: The Cosplay Spellbook (cont.)
+:
 ### Ranger (The Lore Gatekeeper)
+::
 {{note
 ***Favored Enemy — "Um, Actually."*** Pick a fandom; Advantage on Lore (Zone 3) checks about it.
 :
 ***Hunter's Mark — Calling Your Shot.*** Predict your win over one Rival; +Style whenever you land a hit on them.
 }}
-
+::
 ### Bard (Hype Man)
+::
 {{note
 ***Bardic Inspiration — Chant.*** Hand an ally a die of crowd energy for any tournament check.
 :
 ***Cutting Words — Heckle.*** Subtract from a Rival's Style or attack with a perfectly-timed burn.
 }}
-
+::
 ### Wizard (The Rules Lawyer's Bane)
+::
 {{note
 ***Counterspell — "Well, Actually."*** Out-pedant a Rival mid-bit; they lose the action (contested Charisma).
 :
@@ -1018,37 +1112,29 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 }}
 
 \column
-
+:
 ### Sorcerer (Main-Stage Diva)
+::
 {{note
 ***Metamagic — Pyro.*** "Twin" or "Heighten" an effect into a bigger light show for extra Hype.
 :
 ***Wild Magic — Technical Difficulties.*** On a flourish, roll a d20; odd = a hilarious malfunction that *still* wins the crowd.
 }}
-
+:
 ### Warlock (Sponsored Content)
+::
 {{note
 ***Eldritch Blast — Laser Show.*** Twin beams of harmless light; spectacular, never lethal.
 :
 ***Pact Patron — The Sponsor.*** Once per zone, invoke your "sponsor" for a re-roll—at the cost of shouting their slogan.
 }}
-
+::
 ### Druid (The Fursuiter)
+::
 {{note
 ***Wild Shape — The Suit.*** Don a full-body costume: Advantage on Performance, Disadvantage on anything needing fingers.
 :
 ***Thorn Whip — Cable Management.*** Yank a Rival off their mark with a "loose AV cable."
-}}
-
-{{note
-##### What Your Gear Becomes
-| Magic Item | On the Convention Floor |
-|:-----------|:------------------------|
-| *+1 Sword* | A flawless foam replica |
-| *Wand of Magic Missiles* | A light-up toy that goes "pew pew" |
-| *Bag of Holding* | A bottomless tote of merch |
-| *Cloak of Elvenkind* | A very good hoodie (Advantage to slip through crowds) |
-| *Immovable Rod* | A selfie stick that will not collapse |
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -1057,7 +1143,10 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 \page
 
 # Appendix D: Loot & Magic Items
+::::
+
 ### Convention Loot (Usable in Dimension Only)
+:
 {{descriptive
 ##### Stamina Potion (Energy Drink)
 *Potion, common.* A dented can of "Thunder-Bull" that tastes of battery acid and syrup. Grants *Haste* for 1 minute (no concentration). When it ends, you suffer 1 level of **Exhaustion**.
@@ -1079,10 +1168,10 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 }}
 
 \column
-
+::::
 ### Dread Relics (Persist in Your World)
 {{descriptive
-##### Photon Sabre 9000
+##### Youngling Slayer 9000
 *Weapon (shortsword), uncommon.* A plastic hilt that extends a beam of hard light. **+1** to attack and damage. As a bonus action, it sheds dim red light in a 10-ft. radius.
 }}
 
@@ -1102,6 +1191,7 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 \page
 
 # Appendix E: DM's Toolkit
+:::
 {{note
 ##### Quick Reference: Checks & Rewards
 | Beat | Check / DC | On Success |
@@ -1120,16 +1210,16 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 | Zone 3 (Lore) | Contested Cha | 3 applause |
 | Finale | Hype 150 → 0 | The Amulet |
 }}
-
+::
 {{note
 ##### Scaling the Encounter
-* **Party size.** The Finale's 150 Hype assumes 4–5 PCs. Adjust **±30 Hype per PC** beyond that.
+* **Party size.** The Finale assumes 4–5 PCs—**Rivals 150 Hype, Heroes 120 Hype**. Adjust **both pools by ±30 Hype per PC** beyond that.
 * **Power level.** Lower-level: drop social/skill DCs by 2, Hype pool to 100. Min-maxed: raise zone DCs by 2 and give each Rival a second Interference Token.
 * **Time-crunched.** Cut Side Quests to one pick, or narrate two zones and play only the one the party is built for.
 }}
 
 \column
-
+:::
 {{note
 ##### Pacing (one evening, ~3 hrs)
 * Departure & Arrival — 10 min
@@ -1140,6 +1230,7 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 * Epilogue — 10 min
 }}
 
+::
 {{descriptive
 ##### Scoreboard — print or copy
 | Zone | Won? | Token | Interference used |
@@ -1150,7 +1241,7 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 :
 **Temp Hype from Rivalry:** ☐ +10
 :
-**Finale Hype** — Heroes ____ / Rivals 150
+**Finale Hype** — Heroes 120 (+10) / Rivals 150
 }}
 
 {{footnote The Realm of the False Heroes}}
@@ -1160,7 +1251,7 @@ In this realm, magic is purely visual. Damage is 0, but the *implication* of pow
 
 # Appendix F: Cinematic Screen Prompts
 Use these *Nano Banana* prompts to (re)generate the 16:9 backgrounds. Every prompt closes with: *"The art style is clean comic book illustration with bold lines and cel-shading. High resolution, 16:9 aspect ratio."*
-
+::::
 #### 1. The Villain's Throne Room
 A cinematic wide shot of a sinister fantasy throne room. In the center, a menacing iron throne carved like a many-headed hydra. Behind it, a stone wall with a large painted symbol. Swirling eerie green mist, lit by torchlight.
 
@@ -1177,7 +1268,7 @@ A close-up of a bright arcade claw machine. Through the glass, round anime-style
 A messy folding table—scattered comics, empty energy-drink cans, crumpled napkins. Behind it, a whiteboard with a complex flowchart and "THEORY CONFIRMED." Harsh fluorescent light.
 
 \column
-
+:::::::::::
 #### 6. Zone 1: Sci-Fi Corridor
 A view down a mock spaceship corridor of plastic and wood. White modular walls with glowing blue LED strips and blast doors. Fog machines pump haze. Cardboard white-armoured trooper standees in the distance.
 
@@ -1210,3 +1301,24 @@ An epic low-angle shot of a massive main stage. A long black platform lit by bli
 
 {{footnote Player Handout — The Flyer (Reverse / Map)}}
 {{pageNumber,auto}}
+
+
+\page
+
+{{backCover}}
+
+# Convention Chronicles #1
+::::
+All content by Basho of outsidecontext.com
+
+___
+
+For use with any fantasy roleplaying ruleset. Play the best game of your life!
+
+![Basho character designs](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/11-floor-team-rivalry.png){position:absolute,bottom:0,right:-250px,height:100%}
+
+{{logo
+![](https://homebrewery.naturalcrit.com/assets/naturalCritLogoWhite.svg)
+
+Homebrewery.Naturalcrit.com
+}}
