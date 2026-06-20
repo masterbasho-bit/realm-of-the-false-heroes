@@ -600,8 +600,15 @@ The bass is a physical thing. A neon sign flickers **DANCE OR DIE** (the "DIE" i
 
 \column
 
-![Dance Dance Revolution](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/21-zone2-dance.png){width:100%}
+{{note
+##### Rival Play — Pizza Guy
+**Pizza Guy** rings the High Striker bell *one-handed, mid-bite*, then plants himself on the dance pad. His **Aura of Marinara** leaves it slick with grease.
+* **Impact:** while he's on the pad the heroes' **Dance checks are at Disadvantage** (slippery), and he claims the Hammer as an automatic success each round. Shove him off—an **Athletics or Acrobatics contest**—to clear the grease and cancel both.
+}}
 
+{{text-align:center
+![Pizza Guy clogs the dance floor](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/35-rival-pizza-guy.png){width:62%}
+}}
 
 {{footnote The Realm of the False Heroes}}
 {{pageNumber,auto}}
@@ -629,8 +636,16 @@ Stage lights blind you; a microphone whines. The Host—a sweating man in a scre
 
 ***Win Condition.*** Win 3 rounds of applause.
 
-{{wide
-![The panel table under the lights](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/24-zone3-panel.png){bleedBottom}
+\column
+
+{{note
+##### Rival Play — Goth Barbarian
+The **Goth Barbarian** slumps in the front row, arms crossed, radiating pure disdain. Every time the crowd starts to cheer, he sighs "*...this is so derivative,*" and the energy dies.
+* **Impact:** while he watches, the heroes need **+1 extra round of applause** to win. He can also fix his **Intimidating Glare** on a speaker (**DC 15 Wisdom save** or **Frightened**—Disadvantage on that round's check). Win him over with a genuinely *cool* moment (Performance) and he mutters "...okay, that was kind of sick," and slinks off.
+}}
+
+{{text-align:center
+![The Goth Barbarian, unimpressed](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/36-rival-goth-barbarian.png){width:58%}
 }}
 
 {{footnote The Realm of the False Heroes}}
