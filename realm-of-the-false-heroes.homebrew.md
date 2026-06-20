@@ -671,7 +671,7 @@ The stage isn't an empty box—break up the fight with:
 \page
 
 {{text-align:center
-![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){width:180%}
+![The main-stage battle map — a player handout](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26-finale-stage-2.png){handoutPortrait}
 }}
 
 {{footnote Player Handout — The Main Stage}}
