@@ -493,7 +493,13 @@ The instant a hero reaches in, **Chad** materialises with a lanyard and a clipbo
 A ring of folding tables, a fortress of energy-drink cans, and a knot of red-faced nerds mid-argument over whether something is "canon." They turn, as one, and fix the party with the stare of people who have *opinions.*
 }}
 
-**Setting.** "Fan Theory Debate"—e.g., *"Could a level 20 Wizard defeat Goku?"*
+**Setting.** "Fan Theory Debate"—the nerds slam a topic on the table and the party must argue the convoluted "correct" answer (full rulings in **Appendix B**):
+
+* ***The Titan Clash*** — Darkseid's Omega Beams vs. Thanos's Legendary Resistances.
+* ***Speed vs. Prep*** — Batman (with Lair Actions) vs. Gear 5 Luffy.
+* ***Shield Semantics*** — Captain America's shield vs. Zoro's Haki.
+* ***Elemental Standoff*** — Aang vs. Superman.
+* ***The Willpower War*** — Cap's Aura vs. Luffy's Conqueror's Haki.
 
 **Check.** **DC 14 Charisma (Persuasion or Deception)**—use D&D logic to build a nonsensical but convincing argument and win the crowd.
 
