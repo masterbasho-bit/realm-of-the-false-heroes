@@ -654,7 +654,19 @@ The **Goth Barbarian** slumps in the front row, arms crossed, radiating pure dis
 \page
 
 # Part 6: The Grand Finale
-::
+
+{{descriptive
+**Read Aloud — the Announcer:**
+:
+The house lights die. A spotlight stabs the stage. Over the PA, a voice like a monster-truck rally booms:
+:
+"LAAADIES, GENTLEMEN, AND LEGENDS—welcome to the GRAND! FINALE! In the red corner, your three-time, undisputed champions... TEEEAM RULES LAWYERRR!" *(The crowd boos. Chad blows a kiss.)*
+:
+"And in the blue corner—scrappy underdogs from another dimension, DEFINITELY not in costume... give it up for THE HEROES!" *(Polite, confused applause.)*
+:
+"Remember, folks: in this ring it's not about who's *right*—it's about who's *HYYYPE!* Now make some NOISE!"
+}}
+
 {{note
 **Location:** The Main Stage—a massive platform with pyrotechnics, a giant screen displaying the party's faces, and a throne for the Head Judge.
 :
@@ -663,6 +675,8 @@ The **Goth Barbarian** slumps in the front row, arms crossed, radiating pure dis
 **The Opponent:** **Team Rules Lawyer** (the full group assembled).
 }}
 
+\column
+
 {{note
 ##### The Judges
 ***The Dark Lord*** rewards spectacle and punishes hesitation. A committed villain monologue earns bonus Hype—but flinch, and he'll Dread-Grip you for the crowd.
@@ -670,8 +684,6 @@ The **Goth Barbarian** slumps in the front row, arms crossed, radiating pure dis
 ***The Host (Zone 3)*** loves a confident *wrong* answer more than a meek right one. Deception and Performance beat raw Knowledge.
 }}
 
-\column
-::
 {{note
 ##### The Arena (Terrain)
 The stage isn't an empty box—break up the fight with:
