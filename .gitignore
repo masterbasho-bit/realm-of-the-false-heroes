@@ -1,1 +1,4 @@
 .DS_Store
+
+# rendered exports — keep these out of git (use a GitHub Release if you want a download)
+*.pdf
