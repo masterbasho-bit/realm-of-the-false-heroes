@@ -700,6 +700,15 @@ The stage isn't an empty box—break up the fight with:
 
 \page
 
+{{text-align:center
+![Arena terrain props — cut out and place on the battle map](https://raw.githubusercontent.com/masterbasho-bit/realm-of-the-false-heroes/main/images/26b-arena-terrain.png){handoutPortrait}
+}}
+
+{{footnote Player Handout — Arena Terrain · print, cut out, and drop onto the map}}
+{{pageNumber,auto}}
+
+\page
+
 ### Encounter: The Battle for Hype
 Instead of health, each team shares a single **"Hype Meter."** **Team Rules Lawyer (the Rivals) start with 150 Hype**—the bigger team, the bigger meter—while **the Heroes start with 120 Hype** (a 4–5-PC party), **plus the +10 Temp Hype** if they beat Chad back in Encounter E (and anything still banked from the zones). Whoever empties the other team's meter first wins the crowd. Adjust either pool by ±30 Hype per PC beyond a 4–5 party (see the DM's Toolkit). Roll initiative as normal.
 
